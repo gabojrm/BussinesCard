@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bussines Card</string>
+    <string name="name">Gabriel Rojas</string>
+    <string name="title">Android Developer Junior</string>
+    <string name="phone">+57 (319) 267 8473</string>
+    <string name="socialid">"@gabojrm_"</string>
+    <string name="mail">gabojrm@gmail.com</string>
+</resources>
